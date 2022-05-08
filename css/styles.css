@@ -1,0 +1,176 @@
+.top {
+  background-color: #E4F9F5;
+}
+
+span {
+  font-weight: bold;
+}
+
+.demian {
+  font-family: "Brush Script MT", cursive, serif;
+  font-weight: 100;
+  font-size: 600%;
+  color: #48b198;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.engineer {
+  color: #48b198;
+  font-family: "Montserrat", Times, serif;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  color: #48b198;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  color: #48b198;
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+  margin-top: 0;
+  text-align: center;
+}
+
+.top-cloud {
+  display: inline-block;
+  /* position: absolute;
+  margin-left: 10%; */
+  top: 10%;
+  width: 10%;
+  padding-left: 25%;
+  padding-top: 0;
+  margin: 0 auto;
+}
+
+.bottom-cloud {
+  display: inline-block;
+  /* position: absolute; */
+  /* margin-left: 20%; */
+  width: 10%;
+  padding-right: 25%;
+  margin: 0 auto;
+}
+
+.mountain {
+  width: 100%;
+  margin: 0 auto;
+  vertical-align: bottom;
+}
+
+.mySkills {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.allbuttop {
+  background-color: white;
+}
+
+.imageDemian {
+  margin-top: 20px;
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.skillsDemian {
+  margin-bottom: 5%;
+  max-width: 40%;
+  max-height: 40%;
+}
+
+.UOttawaDemian {
+  max-width: 30%;
+  max-height: 30%;
+  margin-bottom: 5px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+.footer-link:hover {
+  color: white;
+}
+
+.btn {
+	box-shadow: 0px 1px 0px 0px #276873;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999E 100%);
+	background-color:#599bb3;
+	border-radius:6px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #3d768a;
+  text-decoration: none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+  text-decoration: none;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+hr {
+  margin-top: 5%;
+  border-top: 9px dotted #5d6262;
+  width: 5%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  padding-bottom: 3%;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.links4all {
+  padding-top: 3%;
+  padding-bottom: 7%;
+}
+
+.contact-me {
+  margin-bottom: 5%;
+}
+
+.paragraphBeforeContactMe {
+  margin-bottom: 5%;
+}
+.copyright {
+    margin-bottom: 0;
+    color: white;
+    font-size: x-small;
+}
+a {
+  margin-right: 10px;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+}
